@@ -8,11 +8,11 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @EnableJpaAuditing
 @EnableJpaRepositories
-public class HelpingHand {
+public class FastestFinger {
 
     public static void main(String[] args) {
-        System.out.println("Helping hand has been initiated");
-        SpringApplication.run(HelpingHand.class, args);
+        System.out.println("Fastest Finger has been initiated");
+        SpringApplication.run(FastestFinger.class, args);
     }
 
 }
