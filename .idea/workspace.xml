@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/GitLabCode/demo" value="PREVIEW" />
+        <entry key="C:/GitLabCode/myfirstgitlabproject" value="PREVIEW" />
+        <entry key="C:/GitLabCode/tictac" value="PREVIEW" />
+        <entry key="C:/IdeaProjects" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/demo" value="PREVIEW" />
+        <entry key="F:/HMS" value="PREVIEW" />
+        <entry key="F:/HMS/HMS" value="PREVIEW" />
+        <entry key="F:/HMS/HospitalManagementSystem" value="PREVIEW" />
+        <entry key="F:/HMS/hospital-enrolment-service" value="PREVIEW" />
+        <entry key="F:/HMS/patient-enrolment-service" value="PREVIEW" />
+        <entry key="F:/Helping Hands/helping-hands-service" value="PREVIEW" />
+        <entry key="F:/Helping Hands/helping-hands-service - Copy" value="PREVIEW" />
+        <entry key="F:/Helping Hands/patient-enrollment-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../FusionStatistic" value="PREVIEW" />
+        <entry key="F:/UPDATED HMS/hms-authentication-service" value="PREVIEW" />
+        <entry key="F:/UPDATED HMS/hospital-enrollment-service" value="PREVIEW" />
+        <entry key="F:/UPDATED HMS/patient-enrollment-service" value="PREVIEW" />
+        <entry key="F:/UPDATED HMS/patient-treatment-service" value="PREVIEW" />
+        <entry key="F:/test/data-integration-service" value="PREVIEW" />
+        <entry key="F:/test/hms-authentication-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-82" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
