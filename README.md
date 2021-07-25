@@ -6,4 +6,6 @@ POST hms/registerPatient :
 GET hms/getPatient/111122223333
 DELETE /hms/deletePatient/111122223333
 UPDATE /hms/updatePatient/754833386685
+
+Request Body :
 { "adharCardNumber": "754833386685", "patientName": "Vishal Rajapure", "mobileNumber": "9960743366", "bloodGroup": "B_POSITIVE", "gender": "MALE", "address": { "addressLine": "Kharadi", "city": "Pune", "zipCode": "411014", "country": "INDIA" }, "password": "vishal@123", "emergencyNumber": "9960743366" }
